@@ -1,1 +1,2 @@
 # IPIS
+interest : detection(anomaly)
